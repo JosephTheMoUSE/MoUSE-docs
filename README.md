@@ -3,7 +3,7 @@
 If you are looking for a MoUSE Desktop App usage tutorial
 see [MoUSE wiki page](https://github.com/JosephTheMoUSE/MoUSE-docs/wiki).
 
-If you want to install MoUSE Desktop APP see [MoUSE Desktop App repository](https://github.com/JosephTheMoUSE/MoUSE-GUI#mouse-desktop-app). 
+If you want to install MoUSE Desktop App see [MoUSE Desktop App repository](https://github.com/JosephTheMoUSE/MoUSE-GUI#mouse-desktop-app). 
 
 If you want to install only the backend of MoUSE see [main MoUSE repository](https://github.com/JosephTheMoUSE/MoUSE#mouse).
 
